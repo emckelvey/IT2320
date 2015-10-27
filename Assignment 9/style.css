@@ -1,0 +1,87 @@
+<style>
+@media only screen and (max-device-width: 480px) {
+/* define mobile specific styles come here */
+}
+#logo { background: url(images/logo.png); width: 600px; border: 1px #ccc solid; }
+@media only screen and (max-device-width: 480px) {
+#logo { background: url(images/logo_mobile.png); width: 440px; }
+}
+body{
+background-color:beige;
+}
+.standard-paragraph{
+background-color: yellow;
+}
+
+.img {
+    float: right;
+    margin: 0 0 7px 10px;
+border-color: black;
+border-style: double;
+}
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+	font-family: 'Georgia';
+}
+.success { background-color: #ccffcc; }
+nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:700px;
+    width:100px;
+    float:left;
+    padding:5px;	      
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+background-color: white;
+color: black;
+
+}
+th, td {
+    padding: 5px;
+}
+div {
+; 
+}
+p.thick {
+    font-weight: bold;
+}
+p{
+font-family: 'Georgia';
+font-size: 16px;
+}
+footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;	 	 
+}
+.grid
+{
+    display: table;
+    border: 1px solid black;
+}
+
+.grid > .row > .cell
+{
+    display: inline-block;
+    border: 1px solid black;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    padding: 15px 10px 0px 10px;
+}
+
+.grid > .row > .active
+{
+    background-color: red;
+}
+
+
+</style>
