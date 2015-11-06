@@ -1,0 +1,6 @@
+C:\Users\EMcKelvey\Documents\Visual Studio 2013\Projects\AssignmentWeek10\AssignmentWeek10\bin\AssignmentWeek10.dll.config
+C:\Users\EMcKelvey\Documents\Visual Studio 2013\Projects\AssignmentWeek10\AssignmentWeek10\bin\AssignmentWeek10.dll
+C:\Users\EMcKelvey\Documents\Visual Studio 2013\Projects\AssignmentWeek10\AssignmentWeek10\bin\AssignmentWeek10.pdb
+C:\Users\EMcKelvey\Documents\Visual Studio 2013\Projects\AssignmentWeek10\AssignmentWeek10\obj\Debug\AssignmentWeek10.csprojResolveAssemblyReference.cache
+C:\Users\EMcKelvey\Documents\Visual Studio 2013\Projects\AssignmentWeek10\AssignmentWeek10\obj\Debug\AssignmentWeek10.dll
+C:\Users\EMcKelvey\Documents\Visual Studio 2013\Projects\AssignmentWeek10\AssignmentWeek10\obj\Debug\AssignmentWeek10.pdb
