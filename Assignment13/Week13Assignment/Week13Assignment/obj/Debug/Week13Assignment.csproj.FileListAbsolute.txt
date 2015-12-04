@@ -1,0 +1,6 @@
+C:\Users\EMcKelvey\Desktop\IT2320\Assignment13\Week13Assignment\Week13Assignment\bin\Week13Assignment.dll.config
+C:\Users\EMcKelvey\Desktop\IT2320\Assignment13\Week13Assignment\Week13Assignment\bin\Week13Assignment.dll
+C:\Users\EMcKelvey\Desktop\IT2320\Assignment13\Week13Assignment\Week13Assignment\bin\Week13Assignment.pdb
+C:\Users\EMcKelvey\Desktop\IT2320\Assignment13\Week13Assignment\Week13Assignment\obj\Debug\Week13Assignment.csprojResolveAssemblyReference.cache
+C:\Users\EMcKelvey\Desktop\IT2320\Assignment13\Week13Assignment\Week13Assignment\obj\Debug\Week13Assignment.dll
+C:\Users\EMcKelvey\Desktop\IT2320\Assignment13\Week13Assignment\Week13Assignment\obj\Debug\Week13Assignment.pdb
