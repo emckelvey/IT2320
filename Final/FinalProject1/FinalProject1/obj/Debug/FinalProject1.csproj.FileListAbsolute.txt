@@ -1,0 +1,6 @@
+C:\Users\EMcKelvey\Desktop\IT2320\Final\FinalProject1\FinalProject1\bin\FinalProject1.dll.config
+C:\Users\EMcKelvey\Desktop\IT2320\Final\FinalProject1\FinalProject1\bin\FinalProject1.dll
+C:\Users\EMcKelvey\Desktop\IT2320\Final\FinalProject1\FinalProject1\bin\FinalProject1.pdb
+C:\Users\EMcKelvey\Desktop\IT2320\Final\FinalProject1\FinalProject1\obj\Debug\FinalProject1.csprojResolveAssemblyReference.cache
+C:\Users\EMcKelvey\Desktop\IT2320\Final\FinalProject1\FinalProject1\obj\Debug\FinalProject1.dll
+C:\Users\EMcKelvey\Desktop\IT2320\Final\FinalProject1\FinalProject1\obj\Debug\FinalProject1.pdb
